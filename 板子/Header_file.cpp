@@ -1,11 +1,9 @@
-#include <iostream>
-#include <cstring>
-#include <algorithm>
+// @author: openallzzz
+#include <bits/stdc++.h>
 
 #define x first
 #define y second
 
-// @author: openallzzz
 using namespace std;
 
 typedef long long LL;
@@ -15,5 +13,9 @@ typedef pair<int, int> PII;
 const int N = 1e5 + 10;
 
 int main() {
-    
+    cin.tie(0);
+    cout.tie(0);
+    std::ios::sync_with_stdio(false);
+
+    // start coding!
 }
